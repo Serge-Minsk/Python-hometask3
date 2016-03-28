@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f1278320-0d17-417f-bf85-3d39a5928dcf" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/monitorapp.txt" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monitorapp.json" afterPath="$PROJECT_DIR$/monitorapp.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monitorapp.py" afterPath="$PROJECT_DIR$/monitorapp.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hometasks" afterPath="$PROJECT_DIR$/hometasks" />
     </list>
     <ignored path="Hometask3.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -343,7 +341,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="25" width="1280" height="974" extended-state="7" />
+    <frame x="0" y="25" width="1280" height="974" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2494043" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
