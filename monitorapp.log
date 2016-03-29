@@ -1,0 +1,8 @@
+2016-03-29 14:19:27,511 Logging DEBUG level messages
+2016-03-29 14:19:27,512 Object j created
+2016-03-29 14:19:27,512 Object t created
+2016-03-29 14:20:27,574 Running job Every 1 minute do work() (last run: [never], next run: 2016-03-29 14:20:27)
+2016-03-29 14:21:27,640 Running job Every 1 minute do work() (last run: 2016-03-29 14:20:27, next run: 2016-03-29 14:21:27)
+2016-03-29 14:22:27,702 Running job Every 1 minute do work() (last run: 2016-03-29 14:21:27, next run: 2016-03-29 14:22:27)
+2016-03-29 14:23:27,763 Running job Every 1 minute do work() (last run: 2016-03-29 14:22:27, next run: 2016-03-29 14:23:27)
+2016-03-29 14:24:27,829 Running job Every 1 minute do work() (last run: 2016-03-29 14:23:27, next run: 2016-03-29 14:24:27)
